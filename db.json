@@ -1,0 +1,22 @@
+{
+    "students" : [
+        {
+            "id" : 1,
+            "name" : "Salim Hasan",
+            "age" : 25,
+            "skill" : "JavaScript Developer"
+        },
+        {
+            "id" : 2,
+            "name" : "Mizanur Islam",
+            "age" : 26,
+            "skill" : "Python Developer"
+        },
+        {
+            "id" : 3,
+            "name" : "Mominur Islam",
+            "age" : 23,
+            "skill" : "Laravel Developer"
+        }
+    ]
+}
